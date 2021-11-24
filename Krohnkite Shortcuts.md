@@ -17,16 +17,3 @@ Move Window to Desktop (Left - Right)
 ```
 Meta + Shift + Ctrl + Left/Right
 ```
-
-
-```c
-#include <stdio.h>
-
-int main() {
-	
-	printf("Hello World");
-	
-	return 0;
-}
-
-```
