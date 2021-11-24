@@ -17,3 +17,8 @@ Move Window to Desktop (Left - Right)
 ```
 Meta + Shift + Ctrl + Left/Right
 ```
+
+Shrink or Grow Height
+```
+Meta + Ctrl + j/k
+```
