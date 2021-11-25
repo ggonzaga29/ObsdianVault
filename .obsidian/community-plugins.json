@@ -3,5 +3,6 @@
   "markdown-prettifier",
   "code-block-copy",
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title"
 ]
