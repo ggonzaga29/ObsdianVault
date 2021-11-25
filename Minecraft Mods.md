@@ -1,4 +1,4 @@
-Not Enough Animations (Forg... - Mods - Minecraft - CurseForgest
+# Minecraft Mod List
 
 > Version 1.17
 
@@ -10,7 +10,8 @@ Not Enough Animations (Forg... - Mods - Minecraft - CurseForgest
 -  **Dynamic Sound Filters** - https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters
 -  **Roughly Enough Items Fabric** - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
 -  **Dynamic Ligths** - https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
--  **Not Enough** - (https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+-  **Not Enough Animations** - https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+-  **Better Grass** - https://modrinth.com/mod/lambdabettergrass
 
 ## Server
 
