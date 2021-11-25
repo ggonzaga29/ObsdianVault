@@ -6,6 +6,12 @@ Grow and Shrink Window
 Meta + L/H
 ```
 
+Move Window 
+
+```
+Meta + Shift + j/k
+```
+
 Create and Delete Desktop
 
 ```
