@@ -12,6 +12,12 @@ Move Window
 Meta + Shift + j/k
 ```
 
+Move Focus Previous / Next
+
+```
+Meta + k/j
+```
+
 Create and Delete Desktop
 
 ```
