@@ -4,7 +4,7 @@
 
 ## Client
 
-- [Fetching Title#5shi](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- **Mod Menu** - https://www.curseforge.com/minecraft/mc-mods/modmenu
 - **Sodium** - https://www.curseforge.com/minecraft/mc-mods/sodium
 - **Better Dropped Items ** - https://www.curseforge.com/minecraft/mc-mods/better-dropped-items
 -  **FerriteCore** - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
@@ -13,12 +13,16 @@
 -  **Dynamic Ligths** - https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
 -  **Not Enough Animations** - https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 -  **Better Grass** - https://modrinth.com/mod/lambdabettergrass
+
+
+## Dependency
+
 -  **CIT Resewn** - https://modrinth.com/mod/cit-resewn
 -  **Indium** - https://modrinth.com/mod/indium
+- **Fabric API** - https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
 ## Server
 
-- **Fabric API** - https://www.curseforge.com/minecraft/mc-mods/fabric-api
 - **CC: Restitched** - https://www.curseforge.com/minecraft/mc-mods/cc-restitched
 
 
