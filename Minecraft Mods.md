@@ -1,6 +1,6 @@
 # Minecraft Mod List
 
-> Version 1.17
+> Version 1.17.1
 
 ## Client
 
