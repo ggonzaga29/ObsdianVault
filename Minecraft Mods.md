@@ -12,6 +12,8 @@
 -  **Dynamic Ligths** - https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
 -  **Not Enough Animations** - https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 -  **Better Grass** - https://modrinth.com/mod/lambdabettergrass
+-  **CIT Resewn** - https://modrinth.com/mod/cit-resewn
+-  **Indium** - https://modrinth.com/mod/indium
 
 ## Server
 
