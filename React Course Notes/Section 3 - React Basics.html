@@ -10276,7 +10276,7 @@ blockquote {
 
 code[class*="language-"],
 pre[class*="language-"] {
-    color: #393A34;
+    color: #ddd;
     font-family: Menlo, "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
     direction: ltr;
     text-align: left;
@@ -10285,7 +10285,7 @@ pre[class*="language-"] {
     word-break: normal;
     font-size: 0.95em;
     line-height: 1.2em;
-
+	
     -moz-tab-size: 4;
     -o-tab-size: 4;
     tab-size: 4;
@@ -10370,7 +10370,7 @@ pre[class*="language-"] {
 .token.function,
 .token.deleted,
 .language-autohotkey .token.tag {
-    color: #9a050f;
+    color: #ed687e;
 }
 
 .token.tag,
@@ -10397,13 +10397,30 @@ pre[class*="language-"] {
     <body>
 <h1 data-heading="Section 3 - React Basics">Section 3 - React Basics</h1>
 <hr>
-<pre class=" language-c" tabindex="0"><code class="language-c is-loaded"><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;stdio.h&gt;</span></span>
+<pre class=" language-c" tabindex="0"><code class="language-c is-loaded"><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;stdio.h&gt;</span></span>
 
-<span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    
-    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Hello world"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    
-    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token keyword">void</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+    <span class="token keyword">int</span> num1<span class="token punctuation">,</span>num2<span class="token punctuation">,</span>num3<span class="token punctuation">,</span>num4<span class="token punctuation">,</span>num5<span class="token punctuation">;</span>
+
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Enter integer 1: "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>num1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Enter integer 2: "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>num2<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Enter integer 3: "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>num3<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Enter integer 4: "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>num4<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Enter integer 5: "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>num5<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token keyword">if</span><span class="token punctuation">(</span>num1 <span class="token operator">&gt;</span> num2 <span class="token operator">&amp;&amp;</span> num1 <span class="token operator">&gt;</span> num3  <span class="token operator">&amp;&amp;</span> num1 <span class="token operator">&gt;</span> num4 <span class="token operator">&amp;&amp;</span> num1 <span class="token operator">&gt;</span> num5<span class="token punctuation">)</span>
+        <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Leftmost"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">else</span> <span class="token keyword">if</span><span class="token punctuation">(</span>num3 <span class="token operator">&gt;</span> num1 <span class="token operator">&amp;&amp;</span> num3 <span class="token operator">&gt;</span> num2 <span class="token operator">&amp;&amp;</span> num3 <span class="token operator">&gt;</span> num4 <span class="token operator">&amp;&amp;</span> num3 <span class="token operator">&gt;</span> num5<span class="token punctuation">)</span>
+        <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Middle"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">else</span> <span class="token keyword">if</span><span class="token punctuation">(</span>num5 <span class="token operator">&gt;</span> num1 <span class="token operator">&amp;&amp;</span> num5 <span class="token operator">&gt;</span> num2 <span class="token operator">&amp;&amp;</span> num5 <span class="token operator">&gt;</span> num3 <span class="token operator">&amp;&amp;</span> num5 <span class="token operator">&gt;</span> num4<span class="token punctuation">)</span>
+        <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Rightmost"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">else</span>
+        <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Unknown"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token punctuation">}</span>
 </code><button class="copy-code-button">Copy</button></pre>
     </body>

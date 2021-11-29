@@ -276,7 +276,7 @@ pre[class*="language-"] {
 }
 .token.punctuation,
 .token.operator {
-    color: #393A34; /* no highlight */
+    color: #ddd; /* no highlight */
 }
 
 .token.entity,
@@ -302,7 +302,7 @@ pre[class*="language-"] {
 .token.function,
 .token.deleted,
 .language-autohotkey .token.tag {
-    color: #9a050f;
+    color: #ed687e;
 }
 
 .token.tag,
