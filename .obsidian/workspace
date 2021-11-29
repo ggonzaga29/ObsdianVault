@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Minecraft Mods.md",
+            "file": "React Course Notes/Section 3 - React Basics.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 162,
-    "collapsed": true
+    "width": 162
   },
   "right": {
     "id": "88045b0125071aca",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Mods.md",
+                "file": "React Course Notes/Section 3 - React Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +88,9 @@
   },
   "active": "08a7fa987158348d",
   "lastOpenFiles": [
+    "React Course Notes/Section 3 - React Basics.md",
     "Minecraft Mods.md",
     "Krohnkite Shortcuts.md",
-    "React Course Notes/Section 3 - React Basics.md",
     "README.md"
   ]
 }
