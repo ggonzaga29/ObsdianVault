@@ -3,7 +3,7 @@
   "addExtensionsToInternalLinks": "html",
   "injectAppCSS": "dark",
   "injectThemeCSS": false,
-  "customCSSFile": "./yinandyang.css",
+  "customCSSFile": "./retro.css",
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,

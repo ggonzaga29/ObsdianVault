@@ -1,4 +1,5 @@
 # Section 3 - React Basics
+<hr>
 
 ```C
 #include <stdio.h>
