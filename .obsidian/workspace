@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSIT121/03-12-2021/Timeline Quiz.md",
+            "file": "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277,
-    "collapsed": true
+    "width": 277
   },
   "right": {
     "id": "88045b0125071aca",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSIT121/03-12-2021/Timeline Quiz.md",
+                "file": "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,8 @@
   },
   "active": "08a7fa987158348d",
   "lastOpenFiles": [
-    "CSIT121/03-12-2021/Timeline Quiz.md",
     "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
+    "CSIT121/03-12-2021/Timeline Quiz.md",
     "Krohnkite Shortcuts.md",
     "CSIT121/Untitled.md",
     "React Course Notes/Section 3 - React Basics.md",
