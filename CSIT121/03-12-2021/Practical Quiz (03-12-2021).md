@@ -38,7 +38,7 @@ float computeParking(char type, int hour, int min) {
             return (hour - 3) * 10.0;
         } else return 0.00;
         break;
-    case 'C':
+case 'C':
         if (hour > 3) {
             return ((hour - 3) * 10.0) + (30.00);
         } else return 30.00;
