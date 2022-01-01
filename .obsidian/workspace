@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
-            "mode": "source"
+            "file": "configfiles/bashrc.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
+                "file": "configfiles/bashrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "08a7fa987158348d",
   "lastOpenFiles": [
-    "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md",
-    "CSIT121/03-12-2021/Timeline Quiz.md",
-    "Krohnkite Shortcuts.md",
-    "CSIT121/Untitled.md",
-    "React Course Notes/Section 3 - React Basics.md",
+    "configfiles/bashrc.md",
+    "Jellyfin.md",
+    "configfiles/zshrc.md",
+    "configfiles/.bashrc.md",
+    "React Notes/FolderNaming.md",
     "Minecraft Mods.md",
-    "README.md"
+    "Krohnkite Shortcuts.md",
+    "React Course Notes/Section 3 - React Basics.md",
+    "CSIT121/03-12-2021/Timeline Quiz.md",
+    "CSIT121/03-12-2021/Practical Quiz (03-12-2021).md"
   ]
 }

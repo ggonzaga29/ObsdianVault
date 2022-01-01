@@ -26,4 +26,27 @@
 - **CC: Restitched** - https://www.curseforge.com/minecraft/mc-mods/cc-restitched
 
 
+```c
+#include <stdio.h>
 
+int  main() {
+	printf("HEllo wrld");
+	return 0;
+}
+```
+
+```jsx
+import React from "react";
+
+function App() {
+	return 
+	<div>
+		<h2>Hello World</h2>
+	</div>
+}
+
+export default App;
+```
+
+
+$$\frac{2}{1} \Sigma $$
