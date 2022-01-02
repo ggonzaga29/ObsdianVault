@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "configfiles/bashrc.md",
+            "file": "Jellyfin.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configfiles/bashrc.md",
+                "file": "Jellyfin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "08a7fa987158348d",
   "lastOpenFiles": [
-    "configfiles/bashrc.md",
     "Jellyfin.md",
+    "configfiles/bashrc.md",
     "configfiles/zshrc.md",
     "configfiles/.bashrc.md",
     "React Notes/FolderNaming.md",
